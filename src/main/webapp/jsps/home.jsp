@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to the new Tesla Web application Project30.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation. Olu is the next one to get good devops jobs with 450k USD pay.
+	           We are raising millionaires in IT automation. OluAgbeluyi is the next one to get good devops jobs with 450k USD pay.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
